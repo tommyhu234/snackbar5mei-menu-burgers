@@ -39,7 +39,7 @@ body {
   z-index: 5;
   width: 40%;
   margin-right: 4%;
-  margin-top: 10%;
+  margin-top: 6%;
 }
 
 .one-column {
@@ -67,7 +67,7 @@ h2 {
   justify-content: space-between;
   color: white;
   padding: 0 12px;
-  font-size: 28px;
+  font-size: 32px;
 }
 
 .item:nth-child(2) {
